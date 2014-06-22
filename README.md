@@ -26,4 +26,4 @@ Or install it yourself as:
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
-6. If fixing reported issues please use `[hub|https://github.com/github/hub] pull-request` to make a PR with the same ID as the issue.
+6. If fixing reported issues please use `hub pull-request` to make a PR with the same ID as the issue. (https://github.com/github/hub)
