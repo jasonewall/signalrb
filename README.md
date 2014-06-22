@@ -1,6 +1,6 @@
-# Signalrb
+# signalrb
 
-TODO: Write a gem description
+SignalR (http://signalr.net) inspired websockets for Ruby.
 
 ## Installation
 
@@ -18,7 +18,6 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
 
 ## Contributing
 
@@ -27,3 +26,4 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+6. If fixing reported issues please use `[hub|https://github.com/github/hub] pull-request` to make a PR with the same ID as the issue.
